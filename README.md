@@ -16,7 +16,7 @@ I try to contribute to the community by sharing articles on my [:memo: Medium](h
 ---
 ## :link: Contact Me !
 
-- [:link: LinkedIn](https://www.linkedin.com/in/https:/(/www.linkedin.com/in/seda-nur-yaz%C4%B1c%C4%B1-3a700420b/))
+- [:link: LinkedIn](https://www.linkedin.com/in/seda-nur-yaz%C4%B1c%C4%B1-3a700420b/)
 - [:email: E-posta](mailto:sedayazici66@gmail.com)
 
 
