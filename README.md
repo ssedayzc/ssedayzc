@@ -1,14 +1,16 @@
-### Hi there I'm Seda 👋
+# Hi there I'm Seda 👋
 
 ---
-
 🚀As a lifelong student who is open to development and excited, I continue to learn new things every day. I follow the updates in technology and I constantly renew myself.
-
+- :snake: Proficient in Python, Java, C#, and C++
+- :briefcase: Experienced in developing commercial web projects, especially delivering real-world solutions using ASP.NET MVC
+- :gear: Interested in and experienced with AI and ML
+- :bar_chart: Conducted studies in data analysis, utilizing the power of Numpy and Pandas libraries
 
 ---
 ## :pencil2: Contributing on Medium 
 
-[:memo: Medium](https://medium.com/@sedayazici66) sayfamda yazılar paylaşarak geniş bir topluluğa ulaşmaya çalışıyorum. Teknoloji, programlama ve veri bilimi gibi konularda rehberler ve pratik ipuçları sunuyorum. Siz de bu paylaşımlara göz atabilir ve yorumlarınızla katkıda bulunabilirsiniz.
+I try to contribute to the community by sharing articles on my [:memo: Medium](https://medium.com/@sedayazici66) page. I offer guides and practical tips on topics such as technology, programming and data science. You can also browse these posts and contribute with your comments.
 
 
 ---
@@ -21,7 +23,9 @@
 
 ---
 ## :fire: My Stats :
-(https://github-readme-stats.vercel.app/api?username=ssedayzc&show_icons=true&theme=radical)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssedayzc&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssedayzc&theme=dark&hide_border=YANLI%C5%9E)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssedayzc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,8 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" title="Makine Öğrenmesi" alt="Makine Öğrenmesi" width="40" height="40"/>&nbsp;
-  <img src="https://numpy.org/images/logos/numpy.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/model-view-controller.png" title="MVC" alt="MVC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
