@@ -32,6 +32,11 @@ I try to contribute to the community by sharing articles on my [:memo: Medium](h
 
 
 ---
+## :eyes: Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=ssedayzc)
+
+---
 ## :hammer_and_wrench: Technology & Tools 
 
 <div>
